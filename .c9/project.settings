@@ -1,4 +1,7 @@
 {
+    "ace": {
+        "@tabSize": 4
+    },
     "build": {
         "@saveall": true
     },
@@ -34,6 +37,9 @@
             "!Split",
             "!Split sequence"
         ]
+    },
+    "general": {
+        "@stripws": false
     },
     "instance": {
         "@automaticShutdown": "30"
